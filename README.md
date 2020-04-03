@@ -7,3 +7,5 @@ How to run:
 3. Run ```javac Main.java``` from a terminal window in that directory
 4. Run ```java Main``` from a terminal window in that directory
 5. Have fun!
+
+If you just want a taste, visit [this](https://youtu.be/VLlyXMYEh1Y) unlisted youtube video.
